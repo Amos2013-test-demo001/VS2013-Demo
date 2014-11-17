@@ -12,6 +12,8 @@ namespace VS_2013_Demo
             //Make changes to master branch
 
             //Another change
+
+            //One more changes
         }
     }
 }
