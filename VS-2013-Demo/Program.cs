@@ -14,6 +14,8 @@ namespace VS_2013_Demo
             //Another change
 
             //One more changes
+
+            //Last changes on master
         }
     }
 }
