@@ -16,6 +16,8 @@ namespace VS_2013_Demo
             //One more changes
 
             //Last changes on master
+
+            //New branch from origin
         }
     }
 }
